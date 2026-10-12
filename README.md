@@ -6,7 +6,7 @@ I'm a tech enthusiast and aspiring Software Engineer passionate about full-stack
 
 ### 📌 About Me
 * 💻 **Current Focus:** Mastering the **MERN Stack** (MongoDB, Express, React, Node.js)
-* 🐧 **Tech Setup:** Linux / Crostini power user, VS Code setup, & optimized workflows
+* 🐧 **Tech Setup:** Linux power user, VS Code setup, & optimized workflows
 * 🎯 **Goal:** Build robust web applications and contribute actively to Open Source!
 
 ---
