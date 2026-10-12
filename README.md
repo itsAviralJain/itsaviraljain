@@ -1,16 +1,19 @@
-## Hi there 👋
+# 🚀 Hey there, I'm [Your Name]!
 
-<!--
-**itsaviraljain/itsaviraljain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a tech enthusiast and aspiring Software Engineer passionate about full-stack web development and open-source software. You'll usually find me tinkering with Linux setups, learning new Web Dev tools, or crafting clean user interfaces.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 About Me
+* 💻 **Current Focus:** Mastering the **MERN Stack** (MongoDB, Express, React, Node.js)
+* 🐧 **Tech Setup:** Linux / Crostini power user, VS Code setup, & optimized workflows
+* 🎯 **Goal:** Build robust web applications and contribute actively to Open Source!
+
+---
+
+### ⚡ Tech & Tools
+```text
+Frontend   : HTML5 | CSS3 | JavaScript (ES6+) | React
+Backend    : Node.js | Express.js (Learning)
+Databases  : MongoDB (Learning)
+Tools      : Git | GitHub | VS Code | Linux Terminal
