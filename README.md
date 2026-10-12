@@ -1,4 +1,4 @@
-# 🚀 Hey there, I'm [Your Name]!
+# 🚀 Hey there, Its Aviral Jain!
 
 I'm a tech enthusiast and aspiring Software Engineer passionate about full-stack web development and open-source software. You'll usually find me tinkering with Linux setups, learning new Web Dev tools, or crafting clean user interfaces.
 
